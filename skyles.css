@@ -1,0 +1,11 @@
+header{
+
+    background-color: black;(190, 220, 525 )
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    border-radius: 5%;
+}
